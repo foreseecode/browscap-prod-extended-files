@@ -1,0 +1,16 @@
+{
+  "userAgents": [
+    {
+      "userAgent": "BingBot",
+      "children": [
+        {
+          "match": "Mozilla/5.0 AppleWebKit/* (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) *",
+          "device": "general Desktop",
+          "properties": {
+            "Version": "2.0"
+          }
+        }
+      ]
+    }
+  ]
+}
